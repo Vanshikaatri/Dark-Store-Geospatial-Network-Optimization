@@ -116,7 +116,7 @@ Run cells in order (Shift+Enter). Full run time: ~3 minutes.
 
 ## Live Outputs
 
-- 🗺️ **Interactive Map:** [Link to your Folium map on GitHub Pages]
+- 🗺️ **Interactive Map:** https://github.com/Vanshikaatri/Dark-Store-Geospatial-Network-Optimization/blob/main/outputs/dark_store_map.html
 - 📊 **Tableau Dashboard:** [Link to your Tableau Public dashboard]
 
 ---
