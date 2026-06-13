@@ -84,10 +84,10 @@ dark_store_project/
 │       └── shift_simulation.csv        # 500m shift what-if analysis
 │
 ├── sql/
-│   └── dark_store_analysis.sql   # 10 analytical queries (run in DB Browser)
+│   └── dark_store_analysis.sql   # 10 analytical queries (run in DB browser)
 │
 └── outputs/
-    ├── dark_store_map.html        # Interactive Folium map (portfolio link)
+    ├── dark_store_map.html        # Interactive Folium map 
     ├── analysis_charts.png        # 4-chart summary image
     └── tableau_exports/           # 7 CSVs for Tableau dashboard
 ```
@@ -108,7 +108,7 @@ jupyter notebook dark_store_project.ipynb
 Run cells in order (Shift+Enter). Full run time: ~3 minutes.
 
 **SQL queries**
-1. Download DB Browser for SQLite: https://sqlitebrowser.org/
+1. Download DB Browser for MySQL Workbench: https://www.mysql.com/downloads/
 2. Import `orders_with_distances.csv`, `dark_stores.csv`, `zone_stats.csv`
 3. Open `sql/dark_store_analysis.sql` and run queries
 
