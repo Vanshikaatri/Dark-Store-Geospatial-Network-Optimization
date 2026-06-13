@@ -1,0 +1,53 @@
+store_id,brand,city,area,lat,lng,operational_since
+BLR_BL_001,Blinkit,Bengaluru,Koramangala,12.9352,77.6245,2022
+BLR_BL_002,Blinkit,Bengaluru,HSR Layout,12.9116,77.6370,2022
+BLR_BL_003,Blinkit,Bengaluru,Indiranagar,12.9784,77.6408,2021
+BLR_BL_004,Blinkit,Bengaluru,Whitefield,12.9698,77.7499,2023
+BLR_BL_005,Blinkit,Bengaluru,Electronic City,12.8456,77.6603,2023
+BLR_BL_006,Blinkit,Bengaluru,JP Nagar,12.9077,77.5851,2022
+BLR_BL_007,Blinkit,Bengaluru,Jayanagar,12.9250,77.5938,2022
+BLR_BL_008,Blinkit,Bengaluru,Marathahalli,12.9591,77.6974,2022
+BLR_ZP_001,Zepto,Bengaluru,Koramangala,12.9340,77.6265,2022
+BLR_ZP_002,Zepto,Bengaluru,BTM Layout,12.9166,77.6101,2022
+BLR_ZP_003,Zepto,Bengaluru,Bellandur,12.9257,77.6784,2023
+BLR_ZP_004,Zepto,Bengaluru,Sarjapur Road,12.9010,77.6850,2023
+BLR_ZP_005,Zepto,Bengaluru,Malleshwaram,13.0035,77.5640,2022
+BLR_ZP_006,Zepto,Bengaluru,Rajajinagar,12.9917,77.5530,2023
+BLR_SI_001,Swiggy Instamart,Bengaluru,Koramangala,12.9360,77.6230,2021
+BLR_SI_002,Swiggy Instamart,Bengaluru,HSR Layout,12.9130,77.6390,2021
+BLR_SI_003,Swiggy Instamart,Bengaluru,Indiranagar,12.9800,77.6390,2021
+BLR_SI_004,Swiggy Instamart,Bengaluru,Bannerghatta Road,12.8933,77.5967,2022
+BLR_SI_005,Swiggy Instamart,Bengaluru,Yelahanka,13.1007,77.5963,2023
+MUM_BL_001,Blinkit,Mumbai,Bandra West,19.0596,72.8295,2021
+MUM_BL_002,Blinkit,Mumbai,Andheri West,19.1136,72.8697,2021
+MUM_BL_003,Blinkit,Mumbai,Powai,19.1176,72.9060,2022
+MUM_BL_004,Blinkit,Mumbai,Malad West,19.1863,72.8484,2022
+MUM_BL_005,Blinkit,Mumbai,Goregaon East,19.1663,72.8526,2022
+MUM_BL_006,Blinkit,Mumbai,Lower Parel,18.9988,72.8302,2022
+MUM_BL_007,Blinkit,Mumbai,Chembur,19.0522,72.8994,2023
+MUM_ZP_001,Zepto,Mumbai,Bandra West,19.0580,72.8280,2022
+MUM_ZP_002,Zepto,Mumbai,Andheri East,19.1143,72.8674,2022
+MUM_ZP_003,Zepto,Mumbai,Worli,19.0176,72.8181,2022
+MUM_ZP_004,Zepto,Mumbai,Thane West,19.1973,72.9614,2022
+MUM_ZP_005,Zepto,Mumbai,Navi Mumbai Vashi,19.0771,73.0073,2023
+MUM_SI_001,Swiggy Instamart,Mumbai,Bandra West,19.0610,72.8310,2021
+MUM_SI_002,Swiggy Instamart,Mumbai,Juhu,19.1075,72.8263,2021
+MUM_SI_003,Swiggy Instamart,Mumbai,Santacruz,19.0896,72.8436,2022
+MUM_SI_004,Swiggy Instamart,Mumbai,Versova,19.1322,72.8184,2022
+DEL_BL_001,Blinkit,Delhi NCR,Gurugram Sector 29,28.4744,77.0266,2021
+DEL_BL_002,Blinkit,Delhi NCR,Noida Sector 18,28.5708,77.3219,2021
+DEL_BL_003,Blinkit,Delhi NCR,Lajpat Nagar,28.5672,77.2434,2021
+DEL_BL_004,Blinkit,Delhi NCR,Dwarka Sector 10,28.5823,77.0431,2022
+DEL_BL_005,Blinkit,Delhi NCR,Rohini Sector 7,28.7041,77.1025,2022
+DEL_BL_006,Blinkit,Delhi NCR,Saket,28.5244,77.2167,2022
+DEL_BL_007,Blinkit,Delhi NCR,Gurugram Cyber City,28.4950,77.0880,2022
+DEL_BL_008,Blinkit,Delhi NCR,Vasant Kunj,28.5216,77.1569,2023
+DEL_ZP_001,Zepto,Delhi NCR,Gurugram Sector 14,28.4682,77.0290,2022
+DEL_ZP_002,Zepto,Delhi NCR,Noida Sector 62,28.6272,77.3687,2022
+DEL_ZP_003,Zepto,Delhi NCR,Connaught Place,28.6315,77.2167,2022
+DEL_ZP_004,Zepto,Delhi NCR,Faridabad Sector 15,28.4089,77.3178,2023
+DEL_ZP_005,Zepto,Delhi NCR,Greater Noida,28.4744,77.5040,2023
+DEL_SI_001,Swiggy Instamart,Delhi NCR,Gurugram DLF Phase 2,28.4975,77.0896,2021
+DEL_SI_002,Swiggy Instamart,Delhi NCR,Noida Sector 50,28.5922,77.3408,2021
+DEL_SI_003,Swiggy Instamart,Delhi NCR,South Delhi GK1,28.5494,77.2311,2022
+DEL_SI_004,Swiggy Instamart,Delhi NCR,Janakpuri,28.6219,77.0878,2022
